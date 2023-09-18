@@ -1780,6 +1780,12 @@ progress {
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
   }
+  .d-flex{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 1rem;
+  }
 }
 @media (max-width: 991.98px) {
   .table-responsive-lg {
